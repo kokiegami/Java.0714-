@@ -1,3 +1,4 @@
+package Summary;
 
 public class DaySummary {
     public static void main(String[] args) {
